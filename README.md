@@ -6,9 +6,9 @@
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML, CSS
+- Linter
+-
 
 ## Live Demo (if available)
 
@@ -37,15 +37,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/akos29)
+- Twitter: [@twitterhandle](https://twitter.com/Kbson49)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kibrewossen-yitbarek-bb587a18/)
 
 ## 🤝 Contributing
 
