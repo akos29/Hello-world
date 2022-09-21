@@ -2,6 +2,8 @@
 
 # Hello Microverse
 
+    Hello Microverse
+
 > First Linter Project
 
 ## Built With
@@ -35,7 +37,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Kibrewossen**
 
 - GitHub: [@githubhandle](https://github.com/akos29)
 - Twitter: [@twitterhandle](https://twitter.com/Kbson49)
